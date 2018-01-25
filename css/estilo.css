@@ -8,10 +8,11 @@
 
 div.caja1{
 	width: 50%;
-	background-color: gold;
+	background-color: turquoise;
+	border: 1px solid gold;
 }
 
 div.caja2{
 	width: 50%;
-	background-color: blue;
+	background-color: red;
 }
