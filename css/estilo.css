@@ -1,0 +1,17 @@
+.cuerpo{
+
+	width: 100%;
+	min-height: 50vh;
+	background-color: tomato;
+
+}
+
+div.caja1{
+	width: 50%;
+	background-color: gold;
+}
+
+div.caja2{
+	width: 50%;
+	background-color: grey;
+}
